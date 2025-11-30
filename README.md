@@ -5,7 +5,7 @@ Selenium Web UI automation project using **Java**, **Maven**, and **TestNG**.
 ## Prerequisites
 
 - Java JDK 25.0.1 (set `JAVA_HOME`).  
-- Maven 3.9.11 (set MAVEN_HOME).    
+- Maven 3.9.11 (set `MAVEN_HOME`).    
 - IDE IntelliJ IDEA 2025.2.1
 
 
