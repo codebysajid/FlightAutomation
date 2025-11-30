@@ -19,11 +19,12 @@ Selenium Web UI automation project using **Java**, **Maven**, and **TestNG**.
 # Run all tests (Maven)
 
   use the command in IDE terminal 
-  `mvn test clean`| Right-click the test class or testng.xml and select Run.  
+  `mvn test clean`| Right-click the test class or testng.xml and select Run.
 
-Reports & logs
+# Reports & logs
 
 TestNG HTML report: Generated under target/surefire-reports/index.html - To generate the new report for each run use command `mvn test clean` in IDE terminal
+
 
 
 
