@@ -7,6 +7,7 @@ Selenium Web UI automation project using **Java**, **Maven**, and **TestNG**.
 - Maven 3.9.11 (set MAVEN_HOME).    
 - IDE IntelliJ IDEA 2025.2.1
 
+# Project Structure 
 
 ├── README.md
 ├── src
@@ -24,3 +25,4 @@ OR
 Reports & logs
 
 TestNG HTML report: Generated under target/surefire-reports/index.html - To generate the new report for each run use command "mvn test clean" in IDE terminal
+
