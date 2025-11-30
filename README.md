@@ -22,6 +22,6 @@ Selenium Web UI automation project using **Java**, **Maven**, and **TestNG**.
 OR
   Right-click the test class or testng.xml and select Run.  
 
-Reports & logs
+# Reports & logs
 
 TestNG HTML report: Generated under target/surefire-reports/index.html - To generate the new report for each run use command "mvn test clean" in IDE terminal
