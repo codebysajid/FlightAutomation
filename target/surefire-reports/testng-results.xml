@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-30T18:49:16 PKT" name="FlightAutomationSuite" finished-at="2025-11-30T18:49:57 PKT" duration-ms="40815">
+    <groups>
+    </groups>
+    <test started-at="2025-11-30T18:49:16 PKT" name="PurchaseFlightTests" finished-at="2025-11-30T18:49:57 PKT" duration-ms="40815">
+      <class name="blazedemo.tests.PurchaseFlightTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:blazedemo.tests.PurchaseFlightTest@14d3bc22]" started-at="2025-11-30T18:49:16 PKT" name="setUp" finished-at="2025-11-30T18:49:25 PKT" duration-ms="9375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1ValidFixedInputs()[pri:0, instance:blazedemo.tests.PurchaseFlightTest@14d3bc22]" started-at="2025-11-30T18:49:25 PKT" name="test1ValidFixedInputs" finished-at="2025-11-30T18:49:31 PKT" duration-ms="5758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1ValidFixedInputs -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:blazedemo.tests.PurchaseFlightTest@14d3bc22]" started-at="2025-11-30T18:49:31 PKT" name="tearDown" finished-at="2025-11-30T18:49:31 PKT" duration-ms="365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:blazedemo.tests.PurchaseFlightTest@14d3bc22]" started-at="2025-11-30T18:49:31 PKT" name="setUp" finished-at="2025-11-30T18:49:33 PKT" duration-ms="2102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test2ValidFixedInputs()[pri:0, instance:blazedemo.tests.PurchaseFlightTest@14d3bc22]" started-at="2025-11-30T18:49:33 PKT" name="test2ValidFixedInputs" finished-at="2025-11-30T18:49:38 PKT" duration-ms="4955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2ValidFixedInputs -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:blazedemo.tests.PurchaseFlightTest@14d3bc22]" started-at="2025-11-30T18:49:38 PKT" name="tearDown" finished-at="2025-11-30T18:49:39 PKT" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:blazedemo.tests.PurchaseFlightTest@14d3bc22]" started-at="2025-11-30T18:49:39 PKT" name="setUp" finished-at="2025-11-30T18:49:40 PKT" duration-ms="1513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAllRandomInputs()[pri:0, instance:blazedemo.tests.PurchaseFlightTest@14d3bc22]" started-at="2025-11-30T18:49:40 PKT" name="testAllRandomInputs" finished-at="2025-11-30T18:49:45 PKT" duration-ms="5141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAllRandomInputs -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:blazedemo.tests.PurchaseFlightTest@14d3bc22]" started-at="2025-11-30T18:49:45 PKT" name="tearDown" finished-at="2025-11-30T18:49:46 PKT" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:blazedemo.tests.PurchaseFlightTest@14d3bc22]" started-at="2025-11-30T18:49:46 PKT" name="setUp" finished-at="2025-11-30T18:49:47 PKT" duration-ms="1638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testInvalidSameCitySelection()[pri:0, instance:blazedemo.tests.PurchaseFlightTest@14d3bc22]" started-at="2025-11-30T18:49:47 PKT" name="testInvalidSameCitySelection" finished-at="2025-11-30T18:49:49 PKT" duration-ms="1785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidSameCitySelection -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:blazedemo.tests.PurchaseFlightTest@14d3bc22]" started-at="2025-11-30T18:49:49 PKT" name="tearDown" finished-at="2025-11-30T18:49:49 PKT" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:blazedemo.tests.PurchaseFlightTest@14d3bc22]" started-at="2025-11-30T18:49:49 PKT" name="setUp" finished-at="2025-11-30T18:49:51 PKT" duration-ms="1676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="userChoice()[pri:0, instance:blazedemo.tests.PurchaseFlightTest@14d3bc22]" started-at="2025-11-30T18:49:51 PKT" name="userChoice" finished-at="2025-11-30T18:49:56 PKT" duration-ms="5312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userChoice -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:blazedemo.tests.PurchaseFlightTest@14d3bc22]" started-at="2025-11-30T18:49:56 PKT" name="tearDown" finished-at="2025-11-30T18:49:57 PKT" duration-ms="360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- blazedemo.tests.PurchaseFlightTest -->
+    </test> <!-- PurchaseFlightTests -->
+  </suite> <!-- FlightAutomationSuite -->
+</testng-results>

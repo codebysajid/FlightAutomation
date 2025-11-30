@@ -1,0 +1,7 @@
+blazedemo\pages\HomePage.class
+blazedemo\utils\DataGenerator.class
+NewGroupID\Main.class
+blazedemo\pages\ConfirmationPage.class
+blazedemo\pages\PurchasePage.class
+blazedemo\base\BaseTest.class
+blazedemo\pages\ReservePage.class
