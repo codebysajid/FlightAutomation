@@ -14,7 +14,7 @@ Selenium Web UI automation project using **Java**, **Maven**, and **TestNG**.
 │   └── main/java  # Pages, utils, baseClass
 │   └── test/java  # TestNG tests/ testClass
 └── pom.xml        # Dependencies
-├── README.md      #Project description
+├── README.md      # Project description
 ├── testng.xml     # TestNG suite file</pre>
  
 
