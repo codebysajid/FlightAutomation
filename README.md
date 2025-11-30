@@ -9,12 +9,12 @@ Selenium Web UI automation project using **Java**, **Maven**, and **TestNG**.
 - IDE IntelliJ IDEA 2025.2.1
 
 
-├── README.md
+<pre> ```text ├── README.md
 ├── src
 │   └── main/java  # Pages, utils, baseClass
 │   └── test/java  # TestNG tests/ testClass
 ├── testng.xml     # TestNG suite file
-└── pom.xml        # Dependencies
+└── pom.xml        # Dependencies```</pre>
  
 
 # Run all tests (Maven)    
