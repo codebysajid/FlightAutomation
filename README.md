@@ -17,7 +17,7 @@ Selenium Web UI automation project using **Java**, **Maven**, and **TestNG**.
 └── testng.xml            # TestNG suite file  
 
 # Run all tests (Maven)    
-  use the command in IDE terminal 
+  Use the command in IDE terminal 
   mvn test clean
 OR
   Right-click the test class or testng.xml and select Run.  
