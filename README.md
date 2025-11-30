@@ -11,10 +11,11 @@ Selenium Web UI automation project using **Java**, **Maven**, and **TestNG**.
 
 ├── README.md
 ├── src
-│   ├── main/java         # Pages, utils, baseClass
-│   └── test/java         # TestNG tests/ testClass
-├── pom.xml               # Dependencies
-└── testng.xml            # TestNG suite file  
+│   └── main/java  # Pages, utils, baseClass
+│   └── test/java  # TestNG tests/ testClass
+├── testng.xml     # TestNG suite file
+└── pom.xml        # Dependencies
+ 
 
 # Run all tests (Maven)    
   Use the command in IDE terminal 
