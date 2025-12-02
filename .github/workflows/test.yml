@@ -1,0 +1,30 @@
+name: Regression Test Suit
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up JDK
+      uses: actions/setup-java@v3
+      with:
+        distribution: 'temurin'
+        java-version: '17'
+
+    - name: Run Maven tests
+      run: mvn clean test
+
+    - name: Upload TestNG HTML Report
+      uses: actions/upload-artifact@v3
+      with:
+        name: Regression Test Suit
+        path: target/surefire-reports/index.html
